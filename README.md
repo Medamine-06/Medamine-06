@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Sakli</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer | AI & ML Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamedaminesakli" target="_blank">
@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year **Software Engineering** student at **EPI Digital School**, Tunisia
-- 💼 Currently doing my final-year internship (PFE) at **Orange Digital Center Tunisia**, building a full-stack social media management platform with **Next.js**, an AI writing assistant (**Groq**), and an ML-based optimal posting time predictor (**LightGBM**)
-- 🌱 Interested in **AI/ML**, **NLP**, and full-stack web development
+- 💼 **Software Engineer** with experience across full-stack web development and AI/ML
+- 🔭 Recently built a full-stack social media management platform (**Next.js**, AI content assistant via **Groq**, and an ML-based posting time predictor with **LightGBM**) during my internship at **Orange Digital Center Tunisia**
+- 🌱 Interested in **AI/ML**, **NLP**, and scalable web architectures
 - 🌍 Based in Sousse, Tunisia
 - 📫 Reach me at **mohamedaminesakli@gmail.com**
 
